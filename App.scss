@@ -1,0 +1,64 @@
+/* Base Application Styles */
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #eeeeee;
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+.content {
+  padding: 10px 10px;
+  align-items: center;
+  align-content: center;
+  align-self: auto;
+  justify-content: center;
+  text-align: center;
+  background: red;
+}
+
+.page-title {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+.editor{
+  height: 200px;
+  margin-bottom: 10px;
+}
+.inputStyle{
+  width: 300px;
+  margin-bottom: 10px
+}
+.paperStyle{
+  width: 300px;
+  margin-bottom: 10px;
+}
+.videoStyle{
+  padding-left: 2px;
+}
+.titleStyle{
+  padding-left: 4px;
+  padding-right: 4px;
+}
+.rootWrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  overflow: hidden;
+}
+.headerLink{
+  color: white;
+  text-decoration: none;
+}
+
+.page-content {
+  padding: 10px 10px;
+  align-items: center;
+  align-content: center;
+  align-self: auto;
+  justify-content: center;
+  text-align: center;
+}
