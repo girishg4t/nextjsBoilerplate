@@ -6,14 +6,16 @@
     "@material-ui/core": "latest",
     "@material-ui/icons": "^3.0.2",
     "@zeit/next-sass": "^1.0.1",
+    "firebase": "^5.7.2",
     "jss": "latest",
     "next": "latest",
     "node-sass": "^4.11.0",
     "prop-types": "latest",
     "react": "latest",
     "react-dom": "latest",
+    "react-firebase-file-uploader": "^2.4.2",
     "react-jss": "^8.1.0",
-    "react-rte": "^0.16.1",
+    "react-rte": "https://ucassets.blob.core.windows.net/test-ben/layout/react-rte-0.12.0.tgz",
     "recompose": "^0.30.0"
   },
   "scripts": {
